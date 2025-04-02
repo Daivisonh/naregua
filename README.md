@@ -2,4 +2,4 @@ Sistema web de agendamento para barbearia feito em Python, utilizando o framewor
 
 Foi utilizado o banco de dados MySQL 8.0, workbench.
 
-É necessário a configuração do banco de dados em seu localhost para que o sistema funcione sem nenhum problemas.# naregua
+É necessário a configuração do banco de dados em seu localhost para que o sistema funcione sem nenhum problemas.#naregua
